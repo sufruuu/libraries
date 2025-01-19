@@ -1,0 +1,17 @@
+.MHS12204 :1 ;Switch; Slide; 2 position; Sigle Pole-Double Throw
+MHS12204
+*STM S
+*NGS
+*PNM 1=1 2=2 3=3 4=MH1 5=MH2
+*PLB 1="1" 2="2" 3="3" 4="MH1" 5="MH2"
+*MXP 5
+*DFN MHS12204
+~!Mouser Part Number (506-MHS12204)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Alcoswitch/MHS12204?qs=x%2FgbKjZ2T%2FPUluB%2FWhqq0Q%3D%3D)
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (MHS12204)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825255&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=1825255-1)
+~!Height (12mm)
+~!3D_Model (MHS12204)
+MHS12204
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

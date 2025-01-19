@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=MHS12204
+PartCategory=Switch
+PackageCategory=Other
+PinCount=5
+Version=1.2
+Released=2018-11-02 17:23:15
+Downloaded=2025-01-19 19:28:46
+3D=Y
